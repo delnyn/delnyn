@@ -1,5 +1,5 @@
 # Hello, I'm delnyn 👋
+14 year old computers enthusiast  
 
 * Developer at [Openlight](https://openlight.me)
-* Designer at [Lucide](https://lucide.dev)
-* Developer at [CatSource](https://csourcesc.github.io)
+* Designing icons for [Lucide](https://lucide.dev)
